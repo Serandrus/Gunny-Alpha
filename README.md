@@ -9,9 +9,11 @@ Welcome to Gunny, the thrilling multiplayer online game built for the web 3 envi
 Pera Algo Wallet:
 
 A wallet created within the Pera Algo Wallet app, the official wallet for the Algorand network, the platform for which this project was developed.
+
 Character NFT:
 
 Possess an NFT representing your in-game character, adding a unique and personalized touch to your gaming experience.
+
 Pet NFT:
 
 Own an NFT featuring a companion pet, enhancing your gameplay with a loyal and distinctive sidekick.
